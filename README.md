@@ -14,12 +14,12 @@ Node , Express, Mongodb , EJS , javaScript , html, css
 
 ## After reaching to the this preoject directory yo have to run this following command :
 
-#$ npm install
-#2$ nodemon server.js or npm start
+$ npm install,
+$ nodemon server.js or npm start
 
 
 ## Features
-#User View Add/ remove/ update/ delete Habits Alt text
+   # User View Add/ remove/ update/ delete Habits Alt text
 #Daily view Test Image 4
 #Sign In test5
 #Sign Up test6
