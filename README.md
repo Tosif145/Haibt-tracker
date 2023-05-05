@@ -7,19 +7,19 @@ A habit tracker project is a web application that allows users to sign in and si
 Node , Express, Mongodb , EJS , javaScript , html, css
 
 ## How to setup the project on local system
-# Clone this project
-# Start by installing npm if you don't have it already.
-# Navigate to Project Directory by : Using
-# cd habit-tracker
+#Clone this project
+#Start by installing npm if you don't have it already.
+#Navigate to Project Directory by : Using
+#cd habit-tracker
 
 ## After reaching to the this preoject directory yo have to run this following command :
 
-# $ npm install
-# 2$ nodemon server.js or npm start
+#$ npm install
+#2$ nodemon server.js or npm start
 
 
 ## Features
-# User View Add/ remove/ update/ delete Habits Alt text
-# Daily view Test Image 4
-# Sign In test5
-# Sign Up test6
+#User View Add/ remove/ update/ delete Habits Alt text
+#Daily view Test Image 4
+#Sign In test5
+#Sign Up test6
