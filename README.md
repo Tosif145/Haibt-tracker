@@ -14,8 +14,8 @@ cd habit-tracker
 
 ## After reaching to the this preoject directory yo have to run this following command :
 
-$ npm install
-$ nodemon server.js or npm start
+1.$ npm install
+2.$ nodemon server.js or npm start
 
 
 ## Features
