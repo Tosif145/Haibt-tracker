@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 
-// mongoose.connect('mongodb+srv://divyagaurav:divyagaurav@cluster1.ispjeaf.mongodb.net/?retryWrites=true&w=majority');
 mongoose.connect("mongodb+srv://admin-tosif:Test123@cluster0.7rdhg14.mongodb.net/habit-tracker",{useNewUrlParser:true});
 // mongoose.connect('mongodb://localhost/habit-tracker');
 
